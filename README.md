@@ -47,3 +47,9 @@ The project concluded with the generation of a **Professional Excel Dashboard Fi
 ### 📈 Key Impact
 *   **Data Health:** Improved from **73.74%** completeness to **100%** in core analytical columns.
 *   **Usability:** The dataset is now fully prepared for **Time-Series Analysis**, **Financial Auditing**, and **Predictive Modeling**.
+## 📊 Data Transformation (Before & After)
+
+
+| Before Cleaning (Missing Values) | After Cleaning (Structured Data) |
+| :---: | :---: |
+| ![Before](before.png) | ![After](after.png) |
