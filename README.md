@@ -52,4 +52,4 @@ The project concluded with the generation of a **Professional Excel Dashboard Fi
 
 | Before Cleaning (Missing Values) | After Cleaning (Structured Data) |
 | :---: | :---: |
-| ![Before](before.png) | ![After](after.png) |
+| ![Before](Before.png) | ![After](After.png) |
